@@ -47,6 +47,8 @@ A web-based quiz application with gamification features, built using React.
 
 ![image](https://github.com/user-attachments/assets/7cd5675b-1bc8-47ca-8b9e-2a0f06f737bd)
 
+🎥 Video Walkthrough
+
 
 ## 📜 License
 MIT
