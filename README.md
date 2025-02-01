@@ -34,8 +34,9 @@ A web-based quiz application with gamification features, built using React.
 - Implements proper error handling for API requests.
 
 ## 📸 Screenshots
-(Add screenshots here)
-![image](https://github.com/user-attachments/assets/81895c44-163c-4460-bc70-84b7eacf994a)
+
+![image](https://github.com/user-attachments/assets/d89419f5-92bc-4719-b0e4-8889f424aaa2)
+
 
 ![image](https://github.com/user-attachments/assets/0daa6721-0e18-4f4a-932f-65d88803e1f5)
 
