@@ -1,11 +1,10 @@
 # Quiz Flow with Gamification 🎮
-
+ <h2 align="center">ReactJS Quiz Live Demo</h2>
 A web-based quiz application with gamification features, built using React.
 
-  <h2 align="center">ReactJS Quiz Live Demo</h2>
 
  
-<h2  <a href="https://Sirabi08.github.io/Quiz-Flow-with-Gamification"><strong>➥ Live Demo</strong></a>>
+  <a href="https://Sirabi08.github.io/Quiz-Flow-with-Gamification"><strong>➥ Live Demo</strong></a>
 
 
 ## 🚀 Features
